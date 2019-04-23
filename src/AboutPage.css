@@ -1,0 +1,15 @@
+.aboutMain{
+	text-align: center;
+}
+.pairContainer{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 2em;
+	padding: 1em;
+	border: solid black 2px;
+}
+.image{
+	width: 50%;
+}
+
