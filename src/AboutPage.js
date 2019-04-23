@@ -9,7 +9,7 @@ import './AboutPage.css';
 const AboutPage = () => {
   return (
   	<div className="aboutMain">
-		<h1>Values</h1>
+		<h1 className="leftTitle">Values</h1>
 
 		<div className="pairContainer">
 			<img src={baby} className="image"/>

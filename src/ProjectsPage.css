@@ -1,12 +1,8 @@
-.pairContainer{
+.projContainer{
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
 	margin: 2em;
 	padding: 1em;
 	border: solid black 2px;
 }
-.image{
-	width: 50%;
-}
-
